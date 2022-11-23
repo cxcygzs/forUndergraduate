@@ -7,6 +7,7 @@
 4. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
 5. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT）
 6. [从零构建知识图谱 技术、方法与案例](https://github.com/cxcygzs/Learning_Resources/files/10049088/default.pdf)
+7. [Relational AI-My First Knowledge Graph](https://docs.relational.ai/getting-started/rel/my-first-knowledge-graph)
 ---
 ### 知识图谱系统
 1. [The Linked Open Data Cloud](https://lod-cloud.net/)
