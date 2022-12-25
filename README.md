@@ -28,6 +28,7 @@
 16. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
 17. [K12基础教育知识图谱](https://edukg.cn/)
 18. [kali.org例子](https://www.virustotal.com/gui/home/upload)
+19. [Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph](https://github.com/IS5882/Open-CyKG)
 ---
 ### 实验室自建知识图谱系统
 1. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
