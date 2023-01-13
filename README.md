@@ -31,7 +31,7 @@
 19. [Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph](https://github.com/IS5882/Open-CyKG)
 ---
 ### 实验室自建知识图谱系统
-1. [疫情流调分析](https://graphxr.kineviz.com/projects)
+1. [疫情流调分析](https://graphxr.kineviz.com/projects)[检索输入杨铠冰]
 2. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
 3. [食品安全知识图谱](http://124.222.11.46:8081/login/)
 4. [计算机专业课程知识图谱](http://124.222.11.46:8002/)
