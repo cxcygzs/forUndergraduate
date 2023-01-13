@@ -31,10 +31,11 @@
 19. [Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph](https://github.com/IS5882/Open-CyKG)
 ---
 ### 实验室自建知识图谱系统
-1. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
-2. [食品安全知识图谱](http://124.222.11.46:8081/login/)
-3. [计算机专业课程知识图谱](http://124.222.11.46:8002/)
-4. [医疗诊断知识图谱](http://124.222.11.46:5200/)
+1. [疫情流调分析](https://graphxr.kineviz.com/projects)
+2. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
+3. [食品安全知识图谱](http://124.222.11.46:8081/login/)
+4. [计算机专业课程知识图谱](http://124.222.11.46:8002/)
+5. [医疗诊断知识图谱](http://124.222.11.46:5200/)
 ---
 ### 您是第几位访客？
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
