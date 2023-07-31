@@ -37,7 +37,7 @@
 4. [食品安全知识图谱](http://124.222.11.46:8081/login/)
 5. [计算机专业课程知识图谱](https://riyuezhao.gitee.io/ce)[任森林]
 6. [医疗诊断知识图谱](http://124.222.11.46:5200/)
-7. [重大网络安全事件知识图谱]( https://riyuezhao.gitee.io/iskg)
+7. [重大网络安全事件知识图谱](https://riyuezhao.gitee.io/iskg)
 ---
 ### 您是第几位访客？
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
